@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1349223-c92f-4661-b536-ee9998ad000f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NancyAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NancyAPI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NancyAPI/HomeModule.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NancyAPI/Startup.cs" />
+        <option value="$PROJECT_DIR$/NancyAPI/Program.cs" />
+        <option value="$PROJECT_DIR$/NancyAPI/HomeModule.cs" />
+        <option value="$PROJECT_DIR$/NancyAPI.sln" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1alODtIxJjwVYn1aCWRuIyhosmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NancyAPI" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NancyAPI/NancyAPI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1349223-c92f-4661-b536-ee9998ad000f" name="Default Changelist" comment="" />
+      <created>1587306597503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587306597503</updated>
+      <workItem from="1587306598842" duration="5794000" />
+      <workItem from="1587313011131" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom" timestamp="1587312917944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.150.1920.1040/-3840.150.1920.1040@-1920.150.1920.1040" timestamp="1587309303231" />
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587312917944" />
+    <state width="1493" height="282" key="GridCell.Tab.0.center" timestamp="1587312917944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/-1920.150.1920.1040/-3840.150.1920.1040@-1920.150.1920.1040" timestamp="1587309303231" />
+    <state width="1493" height="282" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587312917944" />
+    <state width="1493" height="282" key="GridCell.Tab.0.left" timestamp="1587312917944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/-1920.150.1920.1040/-3840.150.1920.1040@-1920.150.1920.1040" timestamp="1587309303231" />
+    <state width="1493" height="282" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587312917944" />
+    <state width="1493" height="282" key="GridCell.Tab.0.right" timestamp="1587312917944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/-1920.150.1920.1040/-3840.150.1920.1040@-1920.150.1920.1040" timestamp="1587309303231" />
+    <state width="1493" height="282" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587312917944" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.2.bottom" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.2.center" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.2.left" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.2.right" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.3.bottom" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.3.center" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.3.left" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.3.right" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.4.bottom" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.4.center" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.4.left" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+    <state width="1493" height="262" key="GridCell.Tab.4.right" timestamp="1587312915017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1587312915017" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/NancyAPI/HomeModule.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/NancyAPI/HomeModule.cs" initialLine="22">
+            <startOffsets>
+              <option value="490" />
+            </startOffsets>
+            <endOffsets>
+              <option value="491" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

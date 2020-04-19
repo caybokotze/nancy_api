@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Code\personal\nancy_api" t="IncludeFlat">
+      <e p="Nancy" t="IncludeRecursive">
+        <e p="Nancy.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="NancyAPI.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\caybo.kotze\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\caybo.kotze\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_NancyAPI.-1753311777.00" t="ExcludeRecursive" />
+  </component>
+</project>
