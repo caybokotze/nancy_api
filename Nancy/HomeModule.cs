@@ -30,24 +30,6 @@ namespace NancyAPI
         }
     }
 
-    public class Fire
-    {
-        private string _args;
-        //
-        public Fire(string args)
-        {
-            _args = args;
-        }
-        
-        public Reply Return()
-        {
-            return new Reply()
-            {
-                Name = _args
-            };
-        }
-    }
-
     public class Reply
     {
 
