@@ -9,6 +9,7 @@ namespace NancyAPI
         public HomeModule()
         {
             Get("/hello", _ => { return GetHello(); });
+            Get("/", _ => "Welcome the future son. Nancy the framework you wish you knew about as a kid.");
         }
 
         public string GetHello()

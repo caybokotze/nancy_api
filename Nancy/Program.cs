@@ -27,6 +27,7 @@ namespace NancyAPI
             {
                 webBuilder.UseContentRoot(Directory.GetCurrentDirectory())
                     .UseKestrel(o => o.AllowSynchronousIO = true)
+                    .UseUrls("http://localhost:9000")
                     .UseStartup<Startup>();
             });
     }
